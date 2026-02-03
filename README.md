@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a **Systems Administrator and DevOps enthusias
 
 ## 🛠️ Skills & Tools
 Here are some of the tools and technologies I use:
-- **Languages:** Python and Go.
+- **Languages:** Python and C.
 - **Cloud Platforms:** Azure and AWS.
 - **Infrastructure as Code:** Terraform.
 - **CI/CD & Containers:** Jenkins, Azure DevOps, ArgoCD, Docker, and Kubernetes.
